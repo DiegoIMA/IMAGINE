@@ -24,7 +24,7 @@ Revisão final pedida por Diego em 04/11/2026, olhando o material como quem cons
 
 ## Alteração em `FONTES/`
 
-`FONTES/` são cópias de trabalho: os originais continuam com Diego. Nesta versão, entraram dois extratos, e seis arquivos tiveram só a troca de nomes de cliente, evento e job.
+`FONTES/` são cópias de trabalho: os originais continuam com Diego. Nesta versão, entraram dois extratos, e cinco arquivos tiveram só a troca de nomes de cliente, evento e job.
 
 ## Quem fez o quê
 
