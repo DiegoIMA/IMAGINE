@@ -1,0 +1,17 @@
+name: Verificar dados pessoais
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Conferir padroes e tipos de arquivo
+        shell: pwsh
+        run: ./ferramentas/verificar-dados-pessoais.ps1
